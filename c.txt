@@ -1,2 +1,4 @@
 Noi dung C
 cập thât bởi windows
+
+cap nhat boi linux
